@@ -1,5 +1,5 @@
 # usercard
-Övning inklusive ett kort
+Övning med ett kort
 
 # usercardTriple
 Samma övning men med tre kort
